@@ -1,0 +1,23 @@
+"2D Sledding" is developed by wi-photos © 2024.  
+
+Art 
+
+pzUH opengameart.org/users/pzuh
+
+Kenney kenney.nl
+
+Tio Aimar opengameart.org/content/2d-platformer-snow-pack
+
+STKRudy85 opengameart.org/users/stkrudy85
+
+Teh_Bucket opengameart.org/users/tehbucket
+
+Music 
+
+3xBlast opengameart.org/users/3xblast
+
+VFX
+
+C. Cords (https://github.com/clemapfel/)
+
+2D Sledding was developed with Love 2D
