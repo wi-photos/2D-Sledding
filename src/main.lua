@@ -14,9 +14,9 @@ function love.load()
 	background = love.graphics.newImage("assets/background.png")
 	GUI:load()
 	Player:load()
-	bgm = love.audio.newSource("Assets/audio/ChristmasSynths.ogg", "stream")
+	bgm = love.audio.newSource("assets/audio/ChristmasSynths.ogg", "stream")
     bgm:setLooping(true)
-	--love.audio.play(bgm)
+	love.audio.play(bgm)
 	snow = rt.SnowEffect(1500)
 	
 end
